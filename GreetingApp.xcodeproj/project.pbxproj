@@ -61,11 +61,11 @@
 				EDB191BE2AFA26D00040BD65 /* AppDelegate.swift */,
 				EDB191C02AFA26D00040BD65 /* SceneDelegate.swift */,
 				EDB191C22AFA26D00040BD65 /* GreetingViewController.swift */,
+				EDB191D22AFA28EF0040BD65 /* Person.swift */,
 				EDB191C42AFA26D00040BD65 /* Main.storyboard */,
 				EDB191C72AFA26D20040BD65 /* Assets.xcassets */,
 				EDB191C92AFA26D20040BD65 /* LaunchScreen.storyboard */,
 				EDB191CC2AFA26D20040BD65 /* Info.plist */,
-				EDB191D22AFA28EF0040BD65 /* Person.swift */,
 			);
 			path = GreetingApp;
 			sourceTree = "<group>";
