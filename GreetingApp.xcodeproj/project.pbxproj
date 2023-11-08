@@ -14,6 +14,7 @@
 		EDB191C82AFA26D20040BD65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDB191C72AFA26D20040BD65 /* Assets.xcassets */; };
 		EDB191CB2AFA26D20040BD65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDB191C92AFA26D20040BD65 /* LaunchScreen.storyboard */; };
 		EDB191D32AFA28EF0040BD65 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB191D22AFA28EF0040BD65 /* Person.swift */; };
+		EDBD64132AFBEE3B00A03A96 /* GreetingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBD64122AFBEE3B00A03A96 /* GreetingViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EDB191CA2AFA26D20040BD65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDB191CC2AFA26D20040BD65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDB191D22AFA28EF0040BD65 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		EDBD64122AFBEE3B00A03A96 /* GreetingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				EDB191C02AFA26D00040BD65 /* SceneDelegate.swift */,
 				EDB191C22AFA26D00040BD65 /* GreetingViewController.swift */,
 				EDB191D22AFA28EF0040BD65 /* Person.swift */,
+				EDBD64122AFBEE3B00A03A96 /* GreetingViewModel.swift */,
 				EDB191C42AFA26D00040BD65 /* Main.storyboard */,
 				EDB191C72AFA26D20040BD65 /* Assets.xcassets */,
 				EDB191C92AFA26D20040BD65 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				EDB191C32AFA26D00040BD65 /* GreetingViewController.swift in Sources */,
 				EDB191BF2AFA26D00040BD65 /* AppDelegate.swift in Sources */,
+				EDBD64132AFBEE3B00A03A96 /* GreetingViewModel.swift in Sources */,
 				EDB191D32AFA28EF0040BD65 /* Person.swift in Sources */,
 				EDB191C12AFA26D00040BD65 /* SceneDelegate.swift in Sources */,
 			);
